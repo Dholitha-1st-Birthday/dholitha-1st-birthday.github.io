@@ -10,6 +10,7 @@ Live: https://dholitha-1st-birthday.github.io/
 | `index.html` | The invitation (lavender butterfly theme, countdown, details, RSVP, calendar, blessings) |
 | `butterfly-family.js` | Decorative "butterfly family" flight (Papa, Amma & little Dholitha). Isolated layer, never blocks taps, off for reduced-motion users. Remove the `<script>` tag to disable. |
 | `assets/og_preview.jpg` | 1200×630 WhatsApp / social link preview |
+| `cursor.css`, `assets/cursor*.png` | Baby-butterfly mouse pointer (desktop/laptop only; golden version over buttons). Remove the `<link>` to `cursor.css` to disable. |
 | `favicon.svg`, `assets/apple-touch-icon.png` | Icons |
 
 Hosted on GitHub Pages from the `main` branch root. Static only, no build step.
